@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam1620
 - 👀 I’m interested in using machine learning and data science for solving global problems
-- 🌱 I’m currently learning how create generative Audio
+- 🌱 I’m currently learning how create generative audio
 - 💞️ I’m looking to collaborate on ML projects 
 - 📫 Reach out to me on LinkedIn
 - 😄 Pronouns: he/him
