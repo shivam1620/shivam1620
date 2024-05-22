@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ML projects 
 - 📫 Reach out to me on LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have met the prime minister of my country
-
 <!---
 shivam1620/shivam1620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
